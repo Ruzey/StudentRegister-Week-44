@@ -86,7 +86,7 @@ namespace StudentRegister
                         "1. Förnamn\n" +
                         "2. Efternamn\n" +
                         "3. Stad\n" +
-                        "9. Avbryt ändring");
+                        "9. Avsluta ändringar");
                 Console.Write("Ange ditt val: ");
                 string studentWhatToEdit = Console.ReadLine();
 
